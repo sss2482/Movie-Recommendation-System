@@ -23,3 +23,6 @@ interesting and relevant to an individual. These results are based on their prof
 history, what other people with similar traits/demographics are watching, and how likely you are
 to watch those movies.
 Your aim will be to recommend similar movies if a type of movie is given.
+
+### Solution
+Both supervised and unsupervised algorithms are used. K-means and KNN are used to recommend movies to the user based on his ratings. consine similarity is used to give recommendation based on a particular movie.
